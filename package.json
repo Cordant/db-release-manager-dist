@@ -1,5 +1,5 @@
 {
-    "name": "aws-mock-cli",
+    "name": "bam",
     "version": "0.0.1",
     "description": "aws mock cli",
     "main": "src/main.js",
